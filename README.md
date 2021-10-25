@@ -30,5 +30,7 @@ Copyright of the materials/files/Articles/Books/Pages used in this repo goes to 
 We love to have `articles` and `codes` in different languages and the `betterment` of existing ones.
 
 Please discuss it with us first by creating a new issue.
+## <div align="center">Note:-</div>
+##### Deadline is 31st October.
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
